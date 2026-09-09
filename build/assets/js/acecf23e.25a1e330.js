@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhats_app_user_guide=self.webpackChunkwhats_app_user_guide||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/WhatsApp-UserGuide/blog","blogTitle":"Blog","authorsListPath":"/WhatsApp-UserGuide/blog/authors"}')}}]);

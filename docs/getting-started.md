@@ -8,8 +8,8 @@ To begin, you’ll need a smartphone number to register.
     - Set up your profile with a name and optional photo.  
     - Start chatting with your contacts instantly.
 
-continue to [Installation-Android](/Sample--WhatsApp/docs/installation-android.md)
+continue to [Installation-Android](/docs/installation-android.md)
 
-continue to [Installation-ios](/Sample--WhatsApp/docs/installation-ios.md)
+continue to [Installation-ios](/docs/installation-ios.md)
 
-continue to [Installation-Desktop](/Sample--WhatsApp/docs/installation-desktop.md)
+continue to [Installation-Desktop](/docs/installation-desktop.md)

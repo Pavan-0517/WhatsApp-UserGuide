@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhats_app_user_guide=self.webpackChunkwhats_app_user_guide||[]).push([["478"],{6717(e){e.exports=JSON.parse('{"metadata":{"permalink":"/WhatsApp-UserGuide/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

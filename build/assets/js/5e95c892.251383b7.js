@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhats_app_user_guide=self.webpackChunkwhats_app_user_guide||[]).push([["1668"],{6569(e,s,r){r.r(s),r.d(s,{default:()=>h});var a=r(4848);r(6540);var u=r(4164),p=r(4308),t=r(8287),c=r(2831),d=r(1085);function h(e){return(0,a.jsx)(p.e3,{className:(0,u.A)(t.G.wrapper.docsPages),children:(0,a.jsx)(d.A,{children:(0,c.v)(e.route.routes)})})}}}]);
