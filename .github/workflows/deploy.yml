@@ -31,7 +31,7 @@ jobs:
       - name: Build website
         run: npm run build
 
-      - name: Setup Pages
+      - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
       - name: Upload website

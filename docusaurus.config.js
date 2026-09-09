@@ -21,6 +21,8 @@ const config = {
   organizationName: 'Pavan-0517',
   projectName: 'WhatsApp-UserGuide',
 
+  trailingSlash: false,
+
   onBrokenLinks: 'throw',
 
   // Language settings
